@@ -1,0 +1,904 @@
+{
+  "discussion.blackoutBanner.information": {
+    "defaultMessage": "Posting in discussions is disabled by the course team",
+    "description": "Informative text when discussion posting is disabled"
+  },
+  "discussion.comment.time": {
+    "defaultMessage": "{time} ago",
+    "description": "Time text for endorse banner"
+  },
+  "discussion.learner.allActivity": {
+    "defaultMessage": "All activity",
+    "description": "Tooltip text for all activity icon"
+  },
+  "discussion.learner.posts": {
+    "defaultMessage": "Posts",
+    "description": "Tooltip text for all posts icon"
+  },
+  "discussion.posts.actionBar.add": {
+    "defaultMessage": "Add a post",
+    "description": "Button to add a new discussion post"
+  },
+  "discussion.posts.actionBar.close": {
+    "defaultMessage": "Close",
+    "description": "Alt description for close icon button for closing in-context sidebar."
+  },
+  "discussion.posts.close.button": {
+    "defaultMessage": "Close",
+    "description": "Close button."
+  },
+  "discussion.posts.confirm.email.button": {
+    "defaultMessage": "Send confirmation link",
+    "description": "Confirmation link email button."
+  },
+  "discussion.posts.confirm.email.description": {
+    "defaultMessage": "You’ll need to confirm your email before you can participate in discussions. Click the button below to receive an email with a confirmation link. Open it, then refresh this page to start contributing. Can’t find it? Check your spam folder or resend the email.",
+    "description": "Confirm email description for unverified users."
+  },
+  "discussion.posts.confirm.email.title": {
+    "defaultMessage": "Confirm your email",
+    "description": "Confirm email title for unverified users."
+  },
+  "discussion.posts.limit.description": {
+    "defaultMessage": "You’ve reached the current post limit. Please try again later.",
+    "description": "Confirm email description for unverified users."
+  },
+  "discussion.posts.limit.title": {
+    "defaultMessage": "Post limit reached",
+    "description": "Confirm email title for unverified users."
+  },
+  "discussion.thread.notFound": {
+    "defaultMessage": "Thread not found",
+    "description": "message to show on screen if the request thread is not found in course"
+  },
+  "discussions.actionBar.clearSearch": {
+    "defaultMessage": "Clear results",
+    "description": "Button to clear search"
+  },
+  "discussions.actionBar.searchInfo": {
+    "defaultMessage": "Showing {count} results for \"{text}\"",
+    "description": "Message displayed when user performs a search"
+  },
+  "discussions.actionBar.searchInfoSearching": {
+    "defaultMessage": "Searching...",
+    "description": "Message displayed when user performs a search"
+  },
+  "discussions.actionBar.searchRewriteInfo": {
+    "defaultMessage": "No results found for \"{searchString}\". Showing {count} results for \"{textSearchRewrite}\".",
+    "description": "Message displayed when user performs a search and search query is rewritten because matching results are not found"
+  },
+  "discussions.actions.back.alt": {
+    "defaultMessage": "Back to list",
+    "description": "Back to Posts list button text"
+  },
+  "discussions.actions.button.alt": {
+    "defaultMessage": "Actions menu",
+    "description": "Alt-text for dropdown button for actions related to a post or comment"
+  },
+  "discussions.actions.close": {
+    "defaultMessage": "Close",
+    "description": "Action to close a post"
+  },
+  "discussions.actions.copylink": {
+    "defaultMessage": "Copy link",
+    "description": "Action to copy post link"
+  },
+  "discussions.actions.delete": {
+    "defaultMessage": "Delete",
+    "description": "Action to delete a post or comment"
+  },
+  "discussions.actions.edit": {
+    "defaultMessage": "Edit",
+    "description": "Action to edit a comment or post"
+  },
+  "discussions.actions.endorse": {
+    "defaultMessage": "Endorse",
+    "description": "Action to endorse a comment"
+  },
+  "discussions.actions.label": {
+    "defaultMessage": "Actions menu",
+    "description": "Button to see actions for a post or comment"
+  },
+  "discussions.actions.markAnswered": {
+    "defaultMessage": "Mark as answered",
+    "description": "Action to mark a comment as answering a post"
+  },
+  "discussions.actions.pin": {
+    "defaultMessage": "Pin",
+    "description": "Action to pin a post"
+  },
+  "discussions.actions.reopen": {
+    "defaultMessage": "Reopen",
+    "description": "Action to reopen a post"
+  },
+  "discussions.actions.report": {
+    "defaultMessage": "Report",
+    "description": "Action to report a post or comment"
+  },
+  "discussions.actions.unMarkAnswered": {
+    "defaultMessage": "Unmark as answered",
+    "description": "Action to unmark a comment as answering a post"
+  },
+  "discussions.actions.unendorse": {
+    "defaultMessage": "Unendorse",
+    "description": "Action to unendorse a post or comment"
+  },
+  "discussions.actions.unpin": {
+    "defaultMessage": "Unpin",
+    "description": "Action to unpin a post"
+  },
+  "discussions.actions.unreport": {
+    "defaultMessage": "Unreport",
+    "description": "Action to unreport a post or comment"
+  },
+  "discussions.app.title": {
+    "defaultMessage": "Discussions"
+  },
+  "discussions.author.admin.description": {
+    "defaultMessage": "Part of the team that runs this course",
+    "description": "tooltip for course admins"
+  },
+  "discussions.author.learner.description": {
+    "defaultMessage": "Taking the course just like you",
+    "description": "tooltip for course learners"
+  },
+  "discussions.author.learner.title": {
+    "defaultMessage": "Learner",
+    "description": "tooltip for course learners title"
+  },
+  "discussions.authors.label.moderator": {
+    "defaultMessage": "TA",
+    "description": "A label for moderators displayed next to their username."
+  },
+  "discussions.authors.label.staff": {
+    "defaultMessage": "Staff",
+    "description": "A label for staff users displayed next to their username."
+  },
+  "discussions.authors.label.ta": {
+    "defaultMessage": "CTA",
+    "description": "A label for community TAs displayed next to their username."
+  },
+  "discussions.captcha.verification.label": {
+    "defaultMessage": "CAPTCHA verification failed.",
+    "description": "CAPTCHA verification failed"
+  },
+  "discussions.comment.comments.editedBy": {
+    "defaultMessage": "Edited by",
+    "description": "Text shown to users to indicate who edited a post. Followed by the username of editor."
+  },
+  "discussions.comment.comments.fullStop": {
+    "defaultMessage": "•",
+    "description": "Fullstop shown to users to indicate who edited a post. Followed by a reason."
+  },
+  "discussions.comment.comments.reason": {
+    "defaultMessage": "Reason",
+    "description": "Text shown to users to indicate why a post was edited, followed by a reason."
+  },
+  "discussions.comment.sortFilterStatus": {
+    "defaultMessage": "{sort, select, false {Oldest first} true {Newest first} other {{sort}} }",
+    "description": "sort message showing current sorting"
+  },
+  "discussions.comments.comment.abuseFlaggedMessage": {
+    "defaultMessage": "Content reported for staff to review",
+    "description": "Alert banner over comment that has been reported for abuse"
+  },
+  "discussions.comments.comment.addComment": {
+    "defaultMessage": "Add comment",
+    "description": "Button to add a comment to a response"
+  },
+  "discussions.comments.comment.addResponse": {
+    "defaultMessage": "Add a response",
+    "description": "Button to add a response to a response"
+  },
+  "discussions.comments.comment.answer": {
+    "defaultMessage": "Answer",
+    "description": "Message above a comment that has been marked as the answer."
+  },
+  "discussions.comments.comment.answeredlabel": {
+    "defaultMessage": "Marked as answered by",
+    "description": "Message above a comment that has been marked as answered. Appears as \"Marked as answered by Username\""
+  },
+  "discussions.comments.comment.commentTime": {
+    "defaultMessage": "Posted {relativeTime}",
+    "description": "Message about how long ago a comment was posted. Appears as \"username posted 7 minutes ago\""
+  },
+  "discussions.comments.comment.endorsed": {
+    "defaultMessage": "Endorsed",
+    "description": "Message above a comment that has been endorsed."
+  },
+  "discussions.comments.comment.endorsedResponseCount": {
+    "defaultMessage": "{num, plural, =0 {No endorsed responses} one {Showing # endorsed response} other {Showing # endorsed responses} }"
+  },
+  "discussions.comments.comment.endorsedlabel": {
+    "defaultMessage": "Endorsed by",
+    "description": "Message above a comment that has been endorsed. Appears as \"Endorsed by Username\""
+  },
+  "discussions.comments.comment.loadMoreComments": {
+    "defaultMessage": "Load more comments",
+    "description": "Button to load more comments on responses"
+  },
+  "discussions.comments.comment.loadMoreResponses": {
+    "defaultMessage": "Load more responses",
+    "description": "Button to load more responses of forum posts"
+  },
+  "discussions.comments.comment.postedTime": {
+    "defaultMessage": "{postType, select, discussion {Discussion} question {Question} other {{postType}} } posted {relativeTime} by",
+    "description": "Timestamp for when a user posted the message followed by username. The relative time is already translated."
+  },
+  "discussions.comments.comment.responseCount": {
+    "defaultMessage": "{num, plural, =0 {No responses} one {Showing # response} other {Showing # responses} }"
+  },
+  "discussions.comments.comment.visibility": {
+    "defaultMessage": "This post is visible to {group, select, null {Everyone} other {{group}} }.",
+    "description": "Message on comment mentioning the group a particular post is visible to"
+  },
+  "discussions.confirmEmailBanner": {
+    "defaultMessage": "Confirm Now",
+    "description": "Button for sending confirm email and open modal"
+  },
+  "discussions.confirmEmailImageAlt": {
+    "defaultMessage": "confirm email background",
+    "description": "text alt confirm email image"
+  },
+  "discussions.confirmEmailModalBody": {
+    "defaultMessage": "We've sent you an email to verify your account. Please check your inbox and click on the big red button to confirm and keep learning.",
+    "description": "text hint for confirming email modal"
+  },
+  "discussions.confirmEmailModalHeader": {
+    "defaultMessage": "Confirm your email",
+    "description": "title for confirming email modal"
+  },
+  "discussions.confirmEmailTextReminderBanner": {
+    "defaultMessage": "Remember to confirm your email so that you can keep posting! {confirmNowButton}.",
+    "description": "Text for reminding user to confirm email"
+  },
+  "discussions.confirmation.button.confirm": {
+    "defaultMessage": "Confirm",
+    "description": "Confirm button shown on confirmation dialog"
+  },
+  "discussions.content.unavailable.action": {
+    "defaultMessage": "Enroll",
+    "description": "Action button on content page when the user has not logged into the MFE or not enrolled in the course."
+  },
+  "discussions.content.unavailable.subTitle": {
+    "defaultMessage": "You may not be able to see this content because you're not logged in, you're not enrolled in the course, or your audit access has expired.",
+    "description": "Sub title on content page when the user has not logged into the MFE or not enrolled in the course."
+  },
+  "discussions.content.unavailable.title": {
+    "defaultMessage": "Content unavailable",
+    "description": "Title on content page when the user has not logged into the MFE or not enrolled in the course."
+  },
+  "discussions.delete.confirmation.button.delete": {
+    "defaultMessage": "Delete",
+    "description": "Delete button shown on delete confirmation dialog"
+  },
+  "discussions.editor.cancel": {
+    "defaultMessage": "Cancel"
+  },
+  "discussions.editor.comments.editReasonCode": {
+    "defaultMessage": "Reason for editing",
+    "description": "Label for field visible to moderators that allows them to select a reason for editing another user's response"
+  },
+  "discussions.editor.delete.comment.description": {
+    "defaultMessage": "Are you sure you want to permanently delete this comment?",
+    "description": "Text displayed in confirmation dialog when deleting a comment"
+  },
+  "discussions.editor.delete.comment.title": {
+    "defaultMessage": "Delete comment",
+    "description": "Title of confirmation dialog shown when deleting a comment"
+  },
+  "discussions.editor.delete.post.description": {
+    "defaultMessage": "Are you sure you want to permanently delete this post?"
+  },
+  "discussions.editor.delete.post.title": {
+    "defaultMessage": "Delete post"
+  },
+  "discussions.editor.delete.response.description": {
+    "defaultMessage": "Are you sure you want to permanently delete this response?",
+    "description": "Text displayed in confirmation dialog when deleting a response"
+  },
+  "discussions.editor.delete.response.title": {
+    "defaultMessage": "Delete response",
+    "description": "Title of confirmation dialog shown when deleting a response"
+  },
+  "discussions.editor.error.empty": {
+    "defaultMessage": "Post content cannot be empty.",
+    "description": "Error message displayed when post content is left empty"
+  },
+  "discussions.editor.image.warning.dismiss": {
+    "defaultMessage": "Ok",
+    "description": "Modal dismiss button text"
+  },
+  "discussions.editor.image.warning.message": {
+    "defaultMessage": "Images having width or height greater than 999px will not be visible when the post, response or comment is viewed using in-line course discussions",
+    "description": "Modal message to tell image dimensions compatibility issue with legacy"
+  },
+  "discussions.editor.image.warning.title": {
+    "defaultMessage": "Warning!",
+    "description": "Modal message title"
+  },
+  "discussions.editor.posts.discussionHelpCourseParticipation": {
+    "defaultMessage": "Participating in course discussions",
+    "description": "Documentation link title for participating in course discussions."
+  },
+  "discussions.editor.posts.discussionHelpDescription": {
+    "defaultMessage": "Course discussions give you the opportunity to start conversations, ask questions, and interact with other learners. See the links below to learn more:",
+    "description": "description message for post help section."
+  },
+  "discussions.editor.posts.discussionHelpHeader": {
+    "defaultMessage": "Discussions help",
+    "description": "header text for post help section."
+  },
+  "discussions.editor.posts.discussionHelpMathExpressions": {
+    "defaultMessage": "Entering math expressions in course discussions",
+    "description": "Documentation link title for entering math expressions in course discussions."
+  },
+  "discussions.editor.posts.discussionHelpTooltip": {
+    "defaultMessage": "Learn more about MathJax & LaTeX",
+    "description": "Tooltip help message for documentation help."
+  },
+  "discussions.editor.posts.editReasonCode": {
+    "defaultMessage": "Reason for editing",
+    "description": "Label for field visible to moderators that allows them to select a reason for editing another user's post"
+  },
+  "discussions.editor.posts.editReasonCode.error": {
+    "defaultMessage": "Select reason for editing",
+    "description": "Error message visible to moderators when they submit the post/response/comment without select reason for editing"
+  },
+  "discussions.editor.posts.showHelp.icon": {
+    "defaultMessage": "Show Help",
+    "description": "show help icon to allow user to see important documentation."
+  },
+  "discussions.editor.posts.showPreview.button": {
+    "defaultMessage": "Show preview",
+    "description": "show preview button text to allow user to see their post content."
+  },
+  "discussions.editor.report.comment.description": {
+    "defaultMessage": "The discussion moderation team will review this content and take appropriate action.",
+    "description": "Text displayed in confirmation dialog when deleting a response"
+  },
+  "discussions.editor.report.comment.title": {
+    "defaultMessage": "Report inappropriate content?",
+    "description": "Title of confirmation dialog shown when reporting a comment"
+  },
+  "discussions.editor.report.post.description": {
+    "defaultMessage": "The discussion moderation team will review this content and take appropriate action.",
+    "description": "Text displayed in confirmation dialog when deleting a post"
+  },
+  "discussions.editor.report.post.title": {
+    "defaultMessage": "Report inappropriate content?",
+    "description": "Title of confirmation dialog shown when reporting a post"
+  },
+  "discussions.editor.response.description": {
+    "defaultMessage": "The discussion moderation team will review this content and take appropriate action.",
+    "description": "Text displayed in confirmation dialog when deleting a response"
+  },
+  "discussions.editor.response.response.title": {
+    "defaultMessage": "Report inappropriate content?",
+    "description": "Title of confirmation dialog shown when reporting a response"
+  },
+  "discussions.editor.submit": {
+    "defaultMessage": "Submit"
+  },
+  "discussions.editor.submitting": {
+    "defaultMessage": "Submitting"
+  },
+  "discussions.empty.allPosts": {
+    "defaultMessage": "All discussion activity for your course will show up here.",
+    "description": "Message shown on page when no posts found for the course."
+  },
+  "discussions.empty.allTopics": {
+    "defaultMessage": "All discussion activity for these topics will show up here.",
+    "description": "Message shown on page when no posts found related to topic."
+  },
+  "discussions.empty.iconAlt": {
+    "defaultMessage": "Empty",
+    "description": "Alt-text for image showing empty state"
+  },
+  "discussions.empty.myPosts": {
+    "defaultMessage": "Posts you've interacted with will show up here.",
+    "description": "Message shown on page when no messages found for the user."
+  },
+  "discussions.empty.noPostSelected": {
+    "defaultMessage": "No post selected",
+    "description": "Title on posts pages when user has yet to select a post to display."
+  },
+  "discussions.empty.noTopicSelected": {
+    "defaultMessage": "No topic selected",
+    "description": "Title on topic pages when user has yet to select a topic."
+  },
+  "discussions.empty.title": {
+    "defaultMessage": "Nothing here yet",
+    "description": "Title shown on empty pages below image."
+  },
+  "discussions.empty.topic": {
+    "defaultMessage": "All discussion activity for this topic will show up here.",
+    "description": "Message shown when visiting a topic with no comments."
+  },
+  "discussions.learner.activityForLearner": {
+    "defaultMessage": "Activity for {username}",
+    "description": "Text for learners post header"
+  },
+  "discussions.learner.back": {
+    "defaultMessage": "Back",
+    "description": "Text on button for back to learners list"
+  },
+  "discussions.learner.lastLogin": {
+    "defaultMessage": "Last active {lastActiveTime}"
+  },
+  "discussions.learner.loadMostLearners": {
+    "defaultMessage": "Load more",
+    "description": "Text on button for loading more learners"
+  },
+  "discussions.learner.loadMostPosts": {
+    "defaultMessage": "Load more posts",
+    "description": "Text on button for loading more posts by a user"
+  },
+  "discussions.learner.mostActivity": {
+    "defaultMessage": "Most activity",
+    "description": "Text for learners sorting by most activity"
+  },
+  "discussions.learner.previouslyReported": {
+    "defaultMessage": "{previouslyReported} previously reported"
+  },
+  "discussions.learner.recentActivity": {
+    "defaultMessage": "Recent activity",
+    "description": "Text for learners sorting by recent activity"
+  },
+  "discussions.learner.reported": {
+    "defaultMessage": "{reported} reported"
+  },
+  "discussions.learner.reportedActivity": {
+    "defaultMessage": "Reported activity",
+    "description": "Text for learners sorting by reported activity"
+  },
+  "discussions.learner.sortFilterStatus": {
+    "defaultMessage": "All learners sorted by {sort, select, flagged {reported activity} activity {most activity} other {{sort}} }",
+    "description": "Text for current selected learners filter"
+  },
+  "discussions.modal.confirmation.button.cancel": {
+    "defaultMessage": "Cancel",
+    "description": "Cancel button shown on delete confirmation dialog"
+  },
+  "discussions.navigation.breadcrumbMenu.allTopics": {
+    "defaultMessage": "Topics",
+    "description": "Topics from Breadcrumb Menu item"
+  },
+  "discussions.navigation.breadcrumbMenu.showAll": {
+    "defaultMessage": "Show all",
+    "description": "Option to show all items in a section of the breadcrumb"
+  },
+  "discussions.navigation.navigationBar.allPosts": {
+    "defaultMessage": "All posts",
+    "description": "Option in navbar to show all posts"
+  },
+  "discussions.navigation.navigationBar.allTopics": {
+    "defaultMessage": "Topics",
+    "description": "Option in navbar to show all topics"
+  },
+  "discussions.navigation.navigationBar.learners": {
+    "defaultMessage": "Learners",
+    "description": "Option in navbar to show learners"
+  },
+  "discussions.navigation.navigationBar.myPosts": {
+    "defaultMessage": "My posts",
+    "description": "Option in navbar to show a user's posts"
+  },
+  "discussions.page.title": {
+    "defaultMessage": "Discussions | {siteName}",
+    "description": "Title tag"
+  },
+  "discussions.post.activity": {
+    "defaultMessage": "Activity",
+    "description": "Tooltip/alttext for icon for showing icon represents activity on a post"
+  },
+  "discussions.post.addResponse": {
+    "defaultMessage": "Add response",
+    "description": "Button to add a response in a thread of forum posts"
+  },
+  "discussions.post.anonymous.author": {
+    "defaultMessage": "anonymous",
+    "description": "Author name displayed when a post is anonymous"
+  },
+  "discussions.post.answered": {
+    "defaultMessage": "Answered",
+    "description": "Tooltip/alttext for button to unfollow a discussion post"
+  },
+  "discussions.post.author.anonymous": {
+    "defaultMessage": "anonymous",
+    "description": "Author name displayed when a post is anonymous"
+  },
+  "discussions.post.closePostModal.cancel": {
+    "defaultMessage": "Cancel",
+    "description": "Cancel button label for the close post reason modal"
+  },
+  "discussions.post.closePostModal.confirm": {
+    "defaultMessage": "Close post",
+    "description": "Confirm button label for the close post reason modal"
+  },
+  "discussions.post.closePostModal.reasonCodeInput": {
+    "defaultMessage": "Reason",
+    "description": "Label for the close reason code selector input"
+  },
+  "discussions.post.closePostModal.text": {
+    "defaultMessage": "Enter a reason for closing this post. This will only be displayed to other moderators.",
+    "description": "Description for the close post reason modal"
+  },
+  "discussions.post.closePostModal.title": {
+    "defaultMessage": "Close post",
+    "description": "Title for the close post reason modal"
+  },
+  "discussions.post.closed": {
+    "defaultMessage": "Post closed for responses and comments",
+    "description": "Tooltip/alttext for icon displayed when post is closed"
+  },
+  "discussions.post.closedBy": {
+    "defaultMessage": "Post closed by"
+  },
+  "discussions.post.contentReported": {
+    "defaultMessage": "Reported",
+    "description": "Content reported for staff review"
+  },
+  "discussions.post.delete.confirmation.button.delete": {
+    "defaultMessage": "Delete",
+    "description": "Delete button shown on delete confirmation dialog"
+  },
+  "discussions.post.editReason": {
+    "defaultMessage": "Reason",
+    "description": "Message shown to user to inform them why a post was edited"
+  },
+  "discussions.post.editedBy": {
+    "defaultMessage": "Edited by",
+    "description": "Message shown to user to inform them who edited a post"
+  },
+  "discussions.post.editor.addPostHeading": {
+    "defaultMessage": "Add a post"
+  },
+  "discussions.post.editor.anonymousPost": {
+    "defaultMessage": "Post anonymously"
+  },
+  "discussions.post.editor.anonymousToPeersPost": {
+    "defaultMessage": "Post anonymously to peers"
+  },
+  "discussions.post.editor.cohortVisibility": {
+    "defaultMessage": "Cohort visibility"
+  },
+  "discussions.post.editor.cohortVisibilityAllLearners": {
+    "defaultMessage": "All learners"
+  },
+  "discussions.post.editor.content.error": {
+    "defaultMessage": "Post content cannot be empty."
+  },
+  "discussions.post.editor.discussionDescription": {
+    "defaultMessage": "Share ideas and start conversations"
+  },
+  "discussions.post.editor.discussionType": {
+    "defaultMessage": "Discussion"
+  },
+  "discussions.post.editor.editPostHeading": {
+    "defaultMessage": "Edit post"
+  },
+  "discussions.post.editor.followPost": {
+    "defaultMessage": "Follow this post"
+  },
+  "discussions.post.editor.notifyAllLearners": {
+    "defaultMessage": "Notify All Learners"
+  },
+  "discussions.post.editor.preview": {
+    "defaultMessage": "Preview"
+  },
+  "discussions.post.editor.questionDescription": {
+    "defaultMessage": "Raise issues that need answers"
+  },
+  "discussions.post.editor.questionText": {
+    "defaultMessage": "Your question or idea (required)"
+  },
+  "discussions.post.editor.questionType": {
+    "defaultMessage": "Question"
+  },
+  "discussions.post.editor.required": {
+    "defaultMessage": "Required"
+  },
+  "discussions.post.editor.title": {
+    "defaultMessage": "Post title"
+  },
+  "discussions.post.editor.title.error": {
+    "defaultMessage": "Post title cannot be empty."
+  },
+  "discussions.post.editor.titleDescription": {
+    "defaultMessage": "Add a clear and descriptive title to encourage participation."
+  },
+  "discussions.post.editor.topicArea": {
+    "defaultMessage": "Topic area"
+  },
+  "discussions.post.editor.topicAreaDescription": {
+    "defaultMessage": "Add your post to a relevant topic to help others find it."
+  },
+  "discussions.post.editor.type": {
+    "defaultMessage": "Post type"
+  },
+  "discussions.post.editor.typeDescription": {
+    "defaultMessage": "Questions raise issues that need answers. Discussions share ideas and start conversations."
+  },
+  "discussions.post.follow": {
+    "defaultMessage": "Follow",
+    "description": "Tooltip/alttext for button to follow a discussion post"
+  },
+  "discussions.post.follow.description": {
+    "defaultMessage": "you are following this post",
+    "description": "tell screen readers if user is following a post"
+  },
+  "discussions.post.followed": {
+    "defaultMessage": "Followed",
+    "description": "Tooltip/alttext for follow icon showing user followed a post"
+  },
+  "discussions.post.following": {
+    "defaultMessage": "Following"
+  },
+  "discussions.post.label.new": {
+    "defaultMessage": "{count} New",
+    "description": "Label shown on the badge indicating new comments/posts like \"3 new\""
+  },
+  "discussions.post.lastResponse": {
+    "defaultMessage": "Last response {time}"
+  },
+  "discussions.post.like": {
+    "defaultMessage": "Like",
+    "description": "Tooltip/alttext for button to like a discussion post"
+  },
+  "discussions.post.liked": {
+    "defaultMessage": "liked",
+    "description": "Tooltip/alttext for like icon to tell user this post is liked by user"
+  },
+  "discussions.post.likes": {
+    "defaultMessage": "likes",
+    "description": "Tooltip/alttext for like icon to tell user about like on the post"
+  },
+  "discussions.post.notFollowed": {
+    "defaultMessage": "Not Followed",
+    "description": "Tooltip/alttext for follow icon showing user not following a post"
+  },
+  "discussions.post.postWithoutPreview": {
+    "defaultMessage": "No preview available",
+    "description": "No preview available"
+  },
+  "discussions.post.postedOn": {
+    "defaultMessage": "Posted {time} by {author} {authorLabel}"
+  },
+  "discussions.post.relatedTo": {
+    "defaultMessage": "Related to",
+    "description": "Message followed the category and topic of post linking to in-course context"
+  },
+  "discussions.post.removeLike": {
+    "defaultMessage": "Unlike",
+    "description": "Tooltip/alttext for button to remove the like applied to a discussion post"
+  },
+  "discussions.post.unFollow": {
+    "defaultMessage": "Unfollow",
+    "description": "Tooltip/alttext for button to unfollow a discussion post"
+  },
+  "discussions.post.unfollow.description": {
+    "defaultMessage": "you are not following this post",
+    "description": "tell screen readers if user is not following a post"
+  },
+  "discussions.post.viewActivity": {
+    "defaultMessage": "View activity",
+    "description": "Tooltip/alttext for button to view the activity of a discussion post"
+  },
+  "discussions.posts.actionBar.search": {
+    "defaultMessage": "{page, select, topics {Search topics} posts {Search all posts} learners {Search learners} myPosts {Search all posts} other {{page}} }",
+    "description": "Placeholder text in search box"
+  },
+  "discussions.posts.actionBar.searchAllPosts": {
+    "defaultMessage": "Search all posts",
+    "description": "Placeholder text in search box"
+  },
+  "discussions.posts.filter.discussions": {
+    "defaultMessage": "Discussions",
+    "description": "Option in dropdown to filter to all discussions"
+  },
+  "discussions.posts.filter.message": {
+    "defaultMessage": "Status: {filterBy}",
+    "description": "Display text used to indicate what post status is being filtered"
+  },
+  "discussions.posts.filter.myDiscussions": {
+    "defaultMessage": "My discussions",
+    "description": "Option in dropdown to filter to all a user's discussions"
+  },
+  "discussions.posts.filter.myPosts": {
+    "defaultMessage": "My posts",
+    "description": "Option in dropdown to filter to all a user's posts"
+  },
+  "discussions.posts.filter.myQuestions": {
+    "defaultMessage": "My questions",
+    "description": "Option in dropdown to filter to all a user's questions"
+  },
+  "discussions.posts.filter.questions": {
+    "defaultMessage": "Questions",
+    "description": "Option in dropdown to filter to all questions"
+  },
+  "discussions.posts.filter.showALl": {
+    "defaultMessage": "Show all",
+    "description": "Option in dropdown to filter to all posts"
+  },
+  "discussions.posts.sort-filter.sortFilterStatus": {
+    "defaultMessage": "{own, select, false {All} true {Own} other {{own}} } {status, select, statusAll {} statusUnread {unread} statusFollowing {followed} statusReported {reported} statusUnanswered {unanswered} statusUnresponded {unresponded} other {{status}} } {type, select, discussion {discussions} question {questions} all {posts} other {{type}} } {cohortType, select, all {} group {in {cohort}} other {{cohortType}} } sorted by {sort, select, lastActivityAt {recent activity} commentCount {most activity} voteCount {most likes} other {{sort}} }",
+    "description": "Status message showing current sorting and filtering status"
+  },
+  "discussions.posts.sort.commentCount": {
+    "defaultMessage": "Most activity",
+    "description": "Option in dropdown to sort posts by most activity"
+  },
+  "discussions.posts.sort.lastActivity": {
+    "defaultMessage": "Recent activity",
+    "description": "Option in dropdown to sort posts by recent activity"
+  },
+  "discussions.posts.sort.message": {
+    "defaultMessage": "Sorted by {sortBy}",
+    "description": "Display text used to indicate how posts are sorted"
+  },
+  "discussions.posts.sort.voteCount": {
+    "defaultMessage": "Most likes",
+    "description": "Option in dropdown to sort posts by most votes"
+  },
+  "discussions.posts.status.filter.anyStatus": {
+    "defaultMessage": "Any status",
+    "description": "Option in dropdown to filter to all post statuses"
+  },
+  "discussions.posts.status.filter.following": {
+    "defaultMessage": "Following",
+    "description": "Option in dropdown to filter to followed posts"
+  },
+  "discussions.posts.status.filter.reported": {
+    "defaultMessage": "Reported",
+    "description": "Option in dropdown to filter to reported posts"
+  },
+  "discussions.posts.status.filter.unanswered": {
+    "defaultMessage": "Unanswered",
+    "description": "Option in dropdown to filter to unanswered posts"
+  },
+  "discussions.posts.status.filter.unread": {
+    "defaultMessage": "Unread",
+    "description": "Option in dropdown to filter to unread posts"
+  },
+  "discussions.posts.status.filter.unresponded": {
+    "defaultMessage": "Not responded",
+    "description": "Option in dropdown to filter to unresponded posts"
+  },
+  "discussions.sidebar.differentKeywords": {
+    "defaultMessage": "Try searching different keywords",
+    "description": "Message shown on discussion sidebar for topics and learners if user searched with keywords."
+  },
+  "discussions.sidebar.noResultsFound": {
+    "defaultMessage": "No results found",
+    "description": "Title on the discussion sidebar when there are now results after filtering"
+  },
+  "discussions.sidebar.removeFilters": {
+    "defaultMessage": "Try removing some filters",
+    "description": "Message shown on discussion sidebar if user filtered results."
+  },
+  "discussions.sidebar.removeKeywords": {
+    "defaultMessage": "Try searching different keywords or removing some filters",
+    "description": "Message shown on discussion sidebar if user searched with keywords."
+  },
+  "discussions.sidebar.removeKeywordsOnly": {
+    "defaultMessage": "Try searching different keywords",
+    "description": "Message shown on discussion sidebar if user searched with keywords only."
+  },
+  "discussions.subtopic.noName.label": {
+    "defaultMessage": "Unnamed subcategory",
+    "description": "display string for topics with missing names"
+  },
+  "discussions.subtopics.unnamed.label": {
+    "defaultMessage": "Unnamed subcategory",
+    "description": "Text to display in place of topic name if topic name is empty"
+  },
+  "discussions.subtopics.unnamed.topic.label": {
+    "defaultMessage": "Unnamed Topic",
+    "description": "Text to display in place of topic name if topic name is empty"
+  },
+  "discussions.topic.noName.label": {
+    "defaultMessage": "Unnamed category",
+    "description": "display string for topics with missing names"
+  },
+  "discussions.topics.archived.label": {
+    "defaultMessage": "Archived",
+    "description": "Heading for displaying topics that are archived."
+  },
+  "discussions.topics.backAlt": {
+    "defaultMessage": "Back to topics list",
+    "description": "Display back button text used to navigate back to topics list"
+  },
+  "discussions.topics.createTopic": {
+    "defaultMessage": "Please contact you admin to create a topic",
+    "description": "Helping Text to display in place of topic list if topic does not exist"
+  },
+  "discussions.topics.discussions": {
+    "defaultMessage": "{count, plural, =0 {Discussion} one {# Discussion} other {# Discussions} }",
+    "description": "Display tooltip text used to indicate how many posts type are discussion"
+  },
+  "discussions.topics.find.label": {
+    "defaultMessage": "Search topics",
+    "description": "Placeholder text in search bar"
+  },
+  "discussions.topics.nothing": {
+    "defaultMessage": "Nothing here yet",
+    "description": "Helping Text to display if nothing here yet"
+  },
+  "discussions.topics.previouslyReported": {
+    "defaultMessage": "{previouslyReported} previously reported",
+    "description": "Display tooltip text used to indicate how many posts are previously reported"
+  },
+  "discussions.topics.questions": {
+    "defaultMessage": "{count, plural, =0 {Question} one {# Question} other {# Questions} }",
+    "description": "Display tooltip text used to indicate how many posts type are questions"
+  },
+  "discussions.topics.reported": {
+    "defaultMessage": "{reported} reported",
+    "description": "Display tooltip text used to indicate how many posts are reported"
+  },
+  "discussions.topics.sort.commentCount": {
+    "defaultMessage": "Most activity",
+    "description": "Option in dropdown to sort topics by most activity"
+  },
+  "discussions.topics.sort.courseStructure": {
+    "defaultMessage": "Course Structure",
+    "description": "Option in dropdown to sort topics by course structure"
+  },
+  "discussions.topics.sort.lastActivity": {
+    "defaultMessage": "Recent activity",
+    "description": "Option in dropdown to sort topics by recent activity"
+  },
+  "discussions.topics.sort.message": {
+    "defaultMessage": "Sorted by {sortBy}",
+    "description": "Display text used to indicate how topics are sorted"
+  },
+  "discussions.topics.title": {
+    "defaultMessage": "No topic exists",
+    "description": "Text to display in place of topic list if topic does not exist"
+  },
+  "discussions.topics.unnamed.label": {
+    "defaultMessage": "Unnamed category",
+    "description": "Text to display in place of topic name if topic name is empty"
+  },
+  "discussions.topics.unnamed.section.label": {
+    "defaultMessage": "Unnamed Section",
+    "description": "Text to display in place of section name if section name is empty"
+  },
+  "discussions.topics.unnamed.subsection.label": {
+    "defaultMessage": "Unnamed Subsection",
+    "description": "Text to display in place of subsection name if subsection name is empty"
+  },
+  "discussions.verifiedConfirmEmailButton": {
+    "defaultMessage": "I've confirmed my email",
+    "description": "Button for verified confirming email"
+  },
+  "learn.course.tabs.navigation.overflow.menu": {
+    "defaultMessage": "More...",
+    "description": "The title of the overflow menu for course tabs"
+  },
+  "navigation.course.tabs.label": {
+    "defaultMessage": "Course Material",
+    "description": "The accessible label for course tabs navigation"
+  },
+  "tour.action.advance": {
+    "defaultMessage": "Next",
+    "description": "Action to go to next step of tour"
+  },
+  "tour.action.dismiss": {
+    "defaultMessage": "Dismiss",
+    "description": "Action to dismiss current tour"
+  },
+  "tour.action.end": {
+    "defaultMessage": "Okay",
+    "description": "Action to end current tour"
+  },
+  "tour.body.notifyAllLearners": {
+    "defaultMessage": "Check this box to notify all learners.",
+    "description": "Body of the tour to notify all learners"
+  },
+  "tour.title.notifyAllLearners": {
+    "defaultMessage": "Let your learners know.",
+    "description": "Title of the tour to notify all learners"
+  }
+}
